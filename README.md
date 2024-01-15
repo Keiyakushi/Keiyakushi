@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks.**
 
-- 📫 How to reach me **Telegram - @Keiyakushi**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:Telegram - @Keiyakushi</h3>
 <p align="left">
 </p>
 
