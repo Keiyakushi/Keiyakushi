@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A passionate android developer from Russia,Stavropol'.</h3>
 
-- 🔭 I’m currently working on [Cash Advisor](https://github.com/CashAdv/CashADV)
+- 🔭 I’m currently working on [INtouch](https://github.com/INtouch-YP)
 
 - 🌱 I’m currently learning **Frameworks.**
 
